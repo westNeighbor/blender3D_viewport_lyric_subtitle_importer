@@ -9,7 +9,7 @@ Go the viewport, press `N` key to open side panel, you will find the addon at th
 # usage
 First check the example of the effect. 
 
-[![Addon Effect](http://img.youtube.com/vi/jEz0FAp4ui0/0.jpg)]([http://www.youtube.com/watch?v=jEz0FAp4ui0](https://www.youtube.com/watch?v=jEz0FAp4ui0))
+[![Addon Effect](http://img.youtube.com/vi/jEz0FAp4ui0/0.jpg)](https://www.youtube.com/watch?v=jEz0FAp4ui0)
 
 It's pretty simple and straightforward to use. Overall all there are two parts. 
 
