@@ -8,7 +8,8 @@ Go the viewport, press `N` key to open side panel, you will find the addon at th
 
 # usage
 First check the example of the effect. 
-[![effects](http://img.youtube.com/vi/vBlm_J-th1E&t=2905s/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=vBlm_J-th1E&t=2904s))
+
+([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=vBlm_J-th1E&t=2904s))
 
 It's pretty simple and straightforward to use. Overall all there are two parts. 
 
