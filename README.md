@@ -23,7 +23,9 @@ It's pretty simple and straightforward to use. Overall all there are two parts.
    
 # Be aware
 
-Generally, the perform is very good, can import hundreds or thounds characters without lagging, depending on the fonts you use. Some fonts are very heavy, it immediately lags even for not many texts, then you can go to the `Advance` setting to boost performance. 
+- Generally, the perform is very good, can import hundreds or thounds characters without lagging, depending on the fonts you use. Some fonts are very heavy, it immediately lags even for not many texts, then you can go to the `Advance` setting to boost performance. 
+
+- Don't change the modifier name.
 
 # Tutorial
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
