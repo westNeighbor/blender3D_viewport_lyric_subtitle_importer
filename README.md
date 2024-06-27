@@ -1,6 +1,8 @@
 # blender3D_viewport_lyric_subtitle_importer
 import dynamic lyrics/subtitles to blender 3D viewport
 
+[Blender subtitle/lyric importer Addon](https://mhstar.gumroad.com/l/kzgmm)
+
 # installation
 > Edit -> Preference -> Addon (select on the left side bar) -> Install (on the top)
 select the .zip file to install, after installation, enable it by checking the checkbox.
