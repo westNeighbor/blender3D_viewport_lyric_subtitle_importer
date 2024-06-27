@@ -29,3 +29,5 @@ It's pretty simple and straightforward to use. Overall all there are two parts.
 
 # Tutorial
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
+
+[![Blender subtitle/lyric addon tutorial](https://img.youtu.be/vi/M4LX6PhcU_g/hqdefault.jpg)](https://youtu.be/M4LX6PhcU_g)
