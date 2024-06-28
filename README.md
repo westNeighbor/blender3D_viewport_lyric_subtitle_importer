@@ -25,6 +25,7 @@ It's pretty simple and straightforward to use. Overall all there are two parts.
    
 # Be aware
 
+- When you change something, you may need to change frame to see the effect.
 - Generally, the perform is very good, can import hundreds or thounds characters without lagging, depending on the fonts you use. Some fonts are very heavy, it immediately lags even for not many texts, then you can go to the `Advance` setting to boost performance. 
 
 - Don't change the modifier name.
